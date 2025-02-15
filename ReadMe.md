@@ -43,33 +43,27 @@ Phase II incorporates AI-driven enhancements to improve the efficiency of appoin
 
 ## Installation & Setup
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-repo/hospital-appointment-system.git
-   cd hospital-appointment-system
-   ```
-
-2. **Set Up Virtual Environment (Python Backend)**
+1. **Set Up Virtual Environment (Python Backend)**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install Dependencies**
+2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Configure Database**
+3. **Configure Database**
    - Create a database instance on **aiven.io**
    - Update the database credentials in `config.py`
 
-5. **Run the Backend Server**
+4. **Run the Backend Server**
    ```bash
    python app.py
    ```
 
-6. **Run the Frontend Application (Flutter/Dart)**
+5. **Run the Frontend Application (Flutter/Dart)**
    ```bash
    flutter pub get
    flutter run
