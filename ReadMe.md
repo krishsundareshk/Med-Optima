@@ -41,6 +41,13 @@ Phase II incorporates AI-driven enhancements to improve the efficiency of appoin
 ### **Database Service**
 - **aiven.io**: Cloud-based database management
 
+## Project Visuals
+
+### **Entity-Relationship (ER) Diagram**
+The ER diagram illustrates the database structure, depicting the relationships between entities such as patients, doctors, and appointments.
+![WhatsApp Image 2025-01-26 at 21 00 50_8e187663](https://github.com/user-attachments/assets/bb08d397-232d-4bf2-9c80-fb71d08c20ca)
+
+
 ## Installation & Setup
 
 1. **Set Up Virtual Environment (Python Backend)**
